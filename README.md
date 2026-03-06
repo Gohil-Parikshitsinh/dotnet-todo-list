@@ -236,13 +236,7 @@ When a task is marked as **Done**, it is visually highlighted.
 screenshots/task-completed.png
 ```
 
-> To add screenshots, create a folder named:
-
-```
-screenshots
-```
-
-Inside your repository and place your images there.
+screenshots/final.png
 
 Example structure:
 
