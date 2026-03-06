@@ -216,27 +216,22 @@ Below are some screenshots of the Todo List Application interface.
 
 Displays all tasks with their status. Completed tasks are highlighted in **green**.
 
-```
-screenshots/main-interface.png
-```
+![Main Interface](screenshots/main-interface.png)
 
 ## Adding a Task
 
 Users can enter a **task title and description** and click the **Add button**.
 
-```
-screenshots/add-task.png
-```
+![Main Interface](screenshots/add-task.png)
 
 ## Task Completed
 
 When a task is marked as **Done**, it is visually highlighted.
 
-```
-screenshots/task-completed.png
-```
+![Main Interface](screenshots/task-completed.png)
 
-screenshots/final.png
+
+![Main Interface](screenshots/final.png)
 
 Example structure:
 
